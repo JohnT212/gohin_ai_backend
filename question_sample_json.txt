@@ -1,0 +1,75 @@
+{
+    "questionType": 1,
+    "subjectId": 9,
+    "title": "<p>Latent heat is absorbed in which of the following processes?</p><p>(1)&nbsp;&nbsp; Boiling</p><p>(2)&nbsp;&nbsp; Evaporation</p><p>(3)&nbsp;&nbsp; Condensation</p><p><span style=\"font-size: 14px; font-family: timesNewRoman;\"></span><br/></p>",
+    "titleCN": "<p>下列哪個過程會吸收潛熱？</p><p>(1)&nbsp;&nbsp; 沸騰</p><p>(2)&nbsp;&nbsp; 蒸發</p><p>(3)&nbsp;&nbsp; 凝結</p><p><br/></p>",
+    "gradeLevel": null,
+    "items": [
+        {
+            "prefix": "A",
+            "subTitle": null,
+            "content": "(1) only",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "B",
+            "subTitle": null,
+            "content": "(3) only",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "C",
+            "subTitle": null,
+            "content": "(1) and (2) only",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "D",
+            "subTitle": null,
+            "content": "(1), (2) and (3)",
+            "score": null,
+            "itemUuid": null
+        }
+    ],
+    "itemsCN": [
+        {
+            "prefix": "A",
+            "subTitle": null,
+            "content": "只有 (1)",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "B",
+            "subTitle": null,
+            "content": "只有 (3)",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "C",
+            "subTitle": null,
+            "content": "只有 (1) 和 (2)",
+            "score": null,
+            "itemUuid": null
+        },
+        {
+            "prefix": "D",
+            "subTitle": null,
+            "content": "(1)、(2) 和 (3)",
+            "score": null,
+            "itemUuid": null
+        }
+    ],
+    "analyze": "<p>A substance changes from a liquid state to a gaseous state in boiling and evaporation. Latent heat is absorbed in both processes.\nA substance changes from a gaseous state to a liquid state in condensation. Latent heat is released in the process.<span style=\"font-size: 14px; font-family: timesNewRoman;\"></span></p>",
+    "analyzeCN": "<p>在沸騰和蒸發的過程中，物質會從液態轉變為氣態，在兩個過程中都會吸收潛熱。\n在凝結的過程中，物質會從氣態轉變為液態，在過程中會釋放潛熱。<span style=\"font-size: 14px; font-family: timesNewRoman;\"></span></p>",
+    "correct": "C",
+    "score": "1",
+    "difficult": 1,
+    "knowledgePointIds": [
+        30
+    ]
+}
